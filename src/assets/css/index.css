@@ -3,6 +3,10 @@
   padding: 0;
   margin: 0;
 }
+header,
+footer {
+  margin: 32px auto;
+}
 h1,
 h6 {
   text-align: center;
